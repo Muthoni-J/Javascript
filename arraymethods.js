@@ -26,7 +26,7 @@
 // // splice() method adds new items to an array.
 
 // // slice() method slices out a piece of an array into a new array.
-
+map new Array from old Array
 // var is_array = input => {
 //     if (toString.call(input) === "[object Array]")
 //       return true;

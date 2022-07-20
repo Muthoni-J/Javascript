@@ -1,3 +1,5 @@
+//Hoisting
+
 grades(95);
 grades(60);
 grades(72);
@@ -8,7 +10,15 @@ function grades(percent){
     else if (percent >=60 ) {console.log("C");}
     else if (percent>50 ) {console.log("D");}
     else  {console.log("E");}
-    
+ 
+  co  
+}
+function people(){
+    var a =20;
+    function students(){
+     console.log(a+10);
+}
+ students
 }
 
 // console.log(grades)
